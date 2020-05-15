@@ -1,0 +1,14 @@
+{
+  "name": "Tareas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "saludo":"node src/saludo.js",
+    "despedida":"node src/despedida",
+    "start": "npm run saludo && npm run despedida"
+  },
+  "keywords": [],
+  "author": "Rene <renealejandrosanchezmorales@gmail.com>",
+  "license": "MIT"
+}
